@@ -10,7 +10,8 @@ Matrix decomposition, also known as matrix factorization, involves breaking down
 - Eigenvalue Decomposition
 - LU Decomposition
 - QR Decomposition
-###Applications
+  
+### Applications
 
 **Signal Processing using PCA**
 PCA (Principal Component Analysis) in digital signal processing efficiently breaks down signals into uncorrelated components, aiding noise reduction and dimensionality reduction.
