@@ -10,24 +10,32 @@ Matrix decomposition, also known as matrix factorization, involves breaking down
 - Eigenvalue Decomposition
 - LU Decomposition
 - QR Decomposition
+###Applications
 
-## Contribution
+**Signal Processing using PCA**
+PCA (Principal Component Analysis) in digital signal processing efficiently breaks down signals into uncorrelated components, aiding noise reduction and dimensionality reduction.
 
-### Khooshi Asmi
+**Recommender Systems using SVD**
+Singular Value Decomposition (SVD) is employed in recommender systems to predict user preferences and generate personalized recommendations.
+
+### Contribution
+
+**Khooshi Asmi**
 
 - Exploration of applications of matrix decomposition in various fields
 - Signal processing using PCA
 - Recommender Systems using SVD
 - Compilation of individual work in LaTeX
 
-## Other Contributers
+### Other Contributers
 
-### Saravana Mitra Somayaji Tangirala
+**Saravana Mitra Somayaji Tangirala**
 
 - Implementation of SVD algorithm and eigenvalue decomposition algorithm
 - Performance evaluation and comparative analysis
 
-### Vyakhya Gupta
+**Vyakhya Gupta**
+
 
 - Implementation of LU decomposition algorithm and QR decomposition algorithm
 - Performance evaluation and comparative analysis
